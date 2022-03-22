@@ -30,7 +30,6 @@
   "homepage": "https://github.com/ajhenry/ts#readme",
   "devDependencies": {
     "@types/jest": "^27.4.1",
-    "@types/lodash": "^4.14.180",
     "@types/node": "^17.0.21",
     "jest": "^27.5.1",
     "jest-module-name-mapper": "^0.1.5",
