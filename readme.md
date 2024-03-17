@@ -1,11 +1,21 @@
-<h1 align="center">ts</h1>
+# ts
 
-<p align="center">
-  <i>A barebones project with TypeScript, ts-node-dev, and ts-jest with minimal examples</i>
-</p>
+A barebones project with TypeScript, ts-node-dev, and ts-jest with minimal examples
 
 ```sh
 git clone https://github.com/ajhenry/ts
 
-yarn
+npm i
+```
+
+Development
+
+```sh
+npm run dev
+```
+
+Testing
+
+```sh
+npm run test
 ```
