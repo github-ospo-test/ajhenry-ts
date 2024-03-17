@@ -9,4 +9,4 @@ export const helloWorld = (num: number) => {
   return num + numberGenerator()
 }
 
-helloWorld(6)
+console.log(helloWorld(6))
